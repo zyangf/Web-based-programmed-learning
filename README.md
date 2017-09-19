@@ -1,1 +1,6 @@
 # Web-based-programmed-learning
+
+This project is about creating an online opening platform programmed learning system. This system is designed follow with online education characteristics for teacher and student  behaviors. 
+The main features of this project are focus on implement these two different account user permission behaviors in the web platform. After user register their own account in this web system, they can obtain the permission which is teacher or student that they choice before.
+The student account main behavior more focus on study in this website. That student account user can follow with a linear structure study model, step by step student in this web system. And each of step will give a small test and feedback for student that help they found their study problem and self-pacing their study plan. In addition, student can save the step page in their own account and fast access the step to continue study when their next time log in.
+The teacher account main behavior more focus on management the web system. That teacher can upload new courses and new questions which want to use to teaching students. And teacher can update the old courses, change the old course and question data. Moreover, teacher can check every student study state and give some comments for students. 
